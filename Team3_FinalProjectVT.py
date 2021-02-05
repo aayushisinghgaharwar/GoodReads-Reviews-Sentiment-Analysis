@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 28 20:27:39 2020
 
-@author: PRATEEK
+@author: 
 """
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
